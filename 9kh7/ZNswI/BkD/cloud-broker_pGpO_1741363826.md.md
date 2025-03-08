@@ -290,7 +290,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [2.12.1] - 2018-05-07
 - Fix not found binding and instance status code
 
-## [2.12.0] - 2018-04-13
 - Fixed issue that not all flags were correctly returned in the catalog (*bindable)
 - Support custom service provider service binding fetch
 - Support policy based random string generation
